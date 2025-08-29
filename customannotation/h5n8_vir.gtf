@@ -1,0 +1,16 @@
+a_sh.HA	custom	gene	1	1765	.	+	.	gene_id "a_sh.HA"; transcript_id "a_sh.HA";
+a_sh.HA	custom	exon	1	1765	.	+	.	gene_id "a_sh.HA"; transcript_id "a_sh.HA";
+a_sh.M	custom	gene	1	1016	.	+	.	gene_id "a_sh.M"; transcript_id "a_sh.M";
+a_sh.M	custom	exon	1	1016	.	+	.	gene_id "a_sh.M"; transcript_id "a_sh.M";
+a_sh.NA	custom	gene	1	1467	.	+	.	gene_id "a_sh.NA"; transcript_id "a_sh.NA";
+a_sh.NA	custom	exon	1	1467	.	+	.	gene_id "a_sh.NA"; transcript_id "a_sh.NA";
+a_sh.NP	custom	gene	1	1555	.	+	.	gene_id "a_sh.NP"; transcript_id "a_sh.NP";
+a_sh.NP	custom	exon	1	1555	.	+	.	gene_id "a_sh.NP"; transcript_id "a_sh.NP";
+a_sh.NS	custom	gene	1	879	.	+	.	gene_id "a_sh.NS"; transcript_id "a_sh.NS";
+a_sh.NS	custom	exon	1	879	.	+	.	gene_id "a_sh.NS"; transcript_id "a_sh.NS";
+a_sh.PA	custom	gene	1	2208	.	+	.	gene_id "a_sh.PA"; transcript_id "a_sh.PA";
+a_sh.PA	custom	exon	1	2208	.	+	.	gene_id "a_sh.PA"; transcript_id "a_sh.PA";
+a_sh.PB1	custom	gene	1	2350	.	+	.	gene_id "a_sh.PB1"; transcript_id "a_sh.PB1";
+a_sh.PB1	custom	exon	1	2350	.	+	.	gene_id "a_sh.PB1"; transcript_id "a_sh.PB1";
+a_sh.PB2	custom	gene	1	2320	.	+	.	gene_id "a_sh.PB2"; transcript_id "a_sh.PB2";
+a_sh.PB2	custom	exon	1	2320	.	+	.	gene_id "a_sh.PB2"; transcript_id "a_sh.PB2";

@@ -1,0 +1,16 @@
+a_tx.PB2	custom	gene	1	2280	.	+	.	gene_id "a_tx.PB2"; transcript_id "a_tx.PB2";
+a_tx.PB2	custom	exon	1	2280	.	+	.	gene_id "a_tx.PB2"; transcript_id "a_tx.PB2";
+a_tx.PB1	custom	gene	1	2274	.	+	.	gene_id "a_tx.PB1"; transcript_id "a_tx.PB1";
+a_tx.PB1	custom	exon	1	2274	.	+	.	gene_id "a_tx.PB1"; transcript_id "a_tx.PB1";
+a_tx.PA	custom	gene	1	2151	.	+	.	gene_id "a_tx.PA"; transcript_id "a_tx.PA";
+a_tx.PA	custom	exon	1	2151	.	+	.	gene_id "a_tx.PA"; transcript_id "a_tx.PA";
+a_tx.HA	custom	gene	1	1704	.	+	.	gene_id "a_tx.HA"; transcript_id "a_tx.HA";
+a_tx.HA	custom	exon	1	1704	.	+	.	gene_id "a_tx.HA"; transcript_id "a_tx.HA";
+a_tx.NP	custom	gene	1	1497	.	+	.	gene_id "a_tx.NP"; transcript_id "a_tx.NP";
+a_tx.NP	custom	exon	1	1497	.	+	.	gene_id "a_tx.NP"; transcript_id "a_tx.NP";
+a_tx.NA	custom	gene	1	1410	.	+	.	gene_id "a_tx.NA"; transcript_id "a_tx.NA";
+a_tx.NA	custom	exon	1	1410	.	+	.	gene_id "a_tx.NA"; transcript_id "a_tx.NA";
+a_tx.M	custom	gene	1	982	.	+	.	gene_id "a_tx.M"; transcript_id "a_tx.M";
+a_tx.M	custom	exon	1	982	.	+	.	gene_id "a_tx.M"; transcript_id "a_tx.M";
+a_tx.NS	custom	gene	1	838	.	+	.	gene_id "a_tx.NS"; transcript_id "a_tx.NS";
+a_tx.NS	custom	exon	1	838	.	+	.	gene_id "a_tx.NS"; transcript_id "a_tx.NS";

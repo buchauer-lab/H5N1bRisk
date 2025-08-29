@@ -1,0 +1,16 @@
+paniii.HA	custom	gene	1	1762	.	+	.	gene_id "paniii.HA"; transcript_id "paniii.HA";
+paniii.HA	custom	exon	1	1762	.	+	.	gene_id "paniii.HA"; transcript_id "paniii.HA";
+paniii.M	custom	gene	1	1027	.	+	.	gene_id "paniii.M"; transcript_id "paniii.M";
+paniii.M	custom	exon	1	1027	.	+	.	gene_id "paniii.M"; transcript_id "paniii.M";
+paniii.NA	custom	gene	1	1466	.	+	.	gene_id "paniii.NA"; transcript_id "paniii.NA";
+paniii.NA	custom	exon	1	1466	.	+	.	gene_id "paniii.NA"; transcript_id "paniii.NA";
+paniii.NP	custom	gene	1	1566	.	+	.	gene_id "paniii.NP"; transcript_id "paniii.NP";
+paniii.NP	custom	exon	1	1566	.	+	.	gene_id "paniii.NP"; transcript_id "paniii.NP";
+paniii.NS	custom	gene	1	887	.	+	.	gene_id "paniii.NS"; transcript_id "paniii.NS";
+paniii.NS	custom	exon	1	887	.	+	.	gene_id "paniii.NS"; transcript_id "paniii.NS";
+paniii.PA	custom	gene	1	2192	.	+	.	gene_id "paniii.PA"; transcript_id "paniii.PA";
+paniii.PA	custom	exon	1	2192	.	+	.	gene_id "paniii.PA"; transcript_id "paniii.PA";
+paniii.PB1	custom	gene	1	2341	.	+	.	gene_id "paniii.PB1"; transcript_id "paniii.PB1";
+paniii.PB1	custom	exon	1	2341	.	+	.	gene_id "paniii.PB1"; transcript_id "paniii.PB1";
+paniii.PB2	custom	gene	1	2341	.	+	.	gene_id "paniii.PB2"; transcript_id "paniii.PB2";
+paniii.PB2	custom	exon	1	2341	.	+	.	gene_id "paniii.PB2"; transcript_id "paniii.PB2";

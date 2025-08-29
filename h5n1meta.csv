@@ -1,0 +1,67 @@
+﻿sample,genome,type,donor,passage,medium,treatment,concentration,unit_treatment,time
+25A_02_01,h5n1cow_GRCh38,HuLu,277M,0,RPMI +1%Glu + 0.3% BSA ,control,,,24 hpi
+25A_02_02,h5n1cow_GRCh38,HuLu,277M,0,RPMI +1%Glu + 0.3% BSA ,A/Tx,1 x 106, PFU/ml,24 hpi
+25A_02_03,h5n8_GRCh38,HuLu,277M,0,RPMI +1%Glu + 0.3% BSA ,A/SH,1 x 106, PFU/ml,24 hpi
+25A_02_04,h5n1_GRCh38,HuLu,277M,0,RPMI +1%Glu + 0.3% BSA ,KAN-1,1 x 106, PFU/ml,24 hpi
+25A_02_05,h3n2_GRCh38,HuLu,277M,0,RPMI +1%Glu + 0.3% BSA ,PanIII,1 x 106, PFU/ml,24 hpi
+25A_03_01,h5n1cow_GRCh38,HuLu,278M,0,RPMI +1%Glu + 0.3% BSA ,control,,,24 hpi
+25A_03_02,h5n1cow_GRCh38,HuLu,278M,0,RPMI +1%Glu + 0.3% BSA ,A/Tx,1 x 106, PFU/ml,24 hpi
+25A_03_03,h5n8_GRCh38,HuLu,278M,0,RPMI +1%Glu + 0.3% BSA ,A/SH,1 x 106, PFU/ml,24 hpi
+25A_03_04,h5n1_GRCh38,HuLu,278M,0,RPMI +1%Glu + 0.3% BSA ,KAN-1,1 x 106, PFU/ml,24 hpi
+25A_03_05,h3n2_GRCh38,HuLu,278M,0,RPMI +1%Glu + 0.3% BSA ,PanIII,1 x 106, PFU/ml,24 hpi
+25A_05_01,h5n1cow_GRCh38,HuLu,946D,0,RPMI +1%Glu + 0.3% BSA ,control,,,24 hpi
+25A_05_02,h5n1cow_GRCh38,HuLu,946D,0,RPMI +1%Glu + 0.3% BSA ,A/Tx,1 x 106, PFU/ml,24 hpi
+25A_05_03,h5n8_GRCh38,HuLu,946D,0,RPMI +1%Glu + 0.3% BSA ,A/SH,1 x 106, PFU/ml,24 hpi
+25A_05_04,h5n1_GRCh38,HuLu,946D,0,RPMI +1%Glu + 0.3% BSA ,KAN-1,1 x 106, PFU/ml,24 hpi
+25A_05_05,h3n2_GRCh38,HuLu,946D,0,RPMI +1%Glu + 0.3% BSA ,PanIII,1 x 106, PFU/ml,24 hpi
+25A_06_01,h5n1cow_GRCh38,HuLu,280M,0,RPMI +1%Glu + 0.3% BSA ,control,,,24 hpi
+25A_06_02,h5n1cow_GRCh38,HuLu,280M,0,RPMI +1%Glu + 0.3% BSA ,A/Tx,1 x 106, PFU/ml,24 hpi
+25A_06_03,h5n8_GRCh38,HuLu,280M,0,RPMI +1%Glu + 0.3% BSA ,A/SH,1 x 106, PFU/ml,24 hpi
+25A_06_04,h5n1_GRCh38,HuLu,280M,0,RPMI +1%Glu + 0.3% BSA ,KAN-1,1 x 106, PFU/ml,24 hpi
+25A_06_05,h3n2_GRCh38,HuLu,280M,0,RPMI +1%Glu + 0.3% BSA ,PanIII,1 x 106, PFU/ml,24 hpi
+25A_14_01,h5n1cow_GRCh38,HuLu,1391Z,0,RPMI +1%Glu + 0.3% BSA ,control,,,24 hpi
+25A_14_02,h5n1cow_GRCh38,HuLu,1391Z,0,RPMI +1%Glu + 0.3% BSA ,A/Tx,1 x 106, PFU/ml,24 hpi
+25A_14_03,h5n8_GRCh38,HuLu,1391Z,0,RPMI +1%Glu + 0.3% BSA ,A/SH,1 x 106, PFU/ml,24 hpi
+25A_14_04,h5n1_GRCh38,HuLu,1391Z,0,RPMI +1%Glu + 0.3% BSA ,KAN-1,1 x 106, PFU/ml,24 hpi
+25A_14_05,h3n2_GRCh38,HuLu,1391Z,0,RPMI +1%Glu + 0.3% BSA ,PanIII,1 x 106, PFU/ml,24 hpi
+25A_07_01,h5n1cow_GRCh38,bLO-derived layer,bLO66,3,CAO,control,,,24 hpi
+25A_07_02,h5n1cow_GRCh38,bLO-derived layer,bLO66,3,CAO,A/Tx,0.1,MOI,24 hpi
+25A_07_03,h5n8_GRCh38,bLO-derived layer,bLO66,3,CAO,A/SH,0.1,MOI,24 hpi
+25A_07_04,h5n1_GRCh38,bLO-derived layer,bLO66,3,CAO,KAN-1,0.1,MOI,24 hpi
+25A_07_05,h3n2_GRCh38,bLO-derived layer,bLO66,3,CAO,PanIII,0.1,MOI,24 hpi
+25A_08_01,h5n1cow_GRCh38,bLO-derived layer,bLO92,3,CAO,control,,,24 hpi
+25A_08_02,h5n1cow_GRCh38,bLO-derived layer,bLO92,3,CAO,A/Tx,0.1,MOI,24 hpi
+25A_08_03,h5n8_GRCh38,bLO-derived layer,bLO92,3,CAO,A/SH,0.1,MOI,24 hpi
+25A_08_04,h5n1_GRCh38,bLO-derived layer,bLO92,3,CAO,KAN-1,0.1,MOI,24 hpi
+25A_08_05,h3n2_GRCh38,bLO-derived layer,bLO92,3,CAO,PanIII,0.1,MOI,24 hpi
+25A_09_01,h5n1cow_GRCh38,bLO-derived layer,bLO94,3,CAO,control,,,24 hpi
+25A_09_02,h5n1cow_GRCh38,bLO-derived layer,bLO94,3,CAO,A/Tx,0.1,MOI,24 hpi
+25A_09_03,h5n8_GRCh38,bLO-derived layer,bLO94,3,CAO,A/SH,0.1,MOI,24 hpi
+25A_09_04,h5n1_GRCh38,bLO-derived layer,bLO94,3,CAO,KAN-1,0.1,MOI,24 hpi
+25A_09_05,h3n2_GRCh38,bLO-derived layer,bLO94,3,CAO,PanIII,0.1,MOI,24 hpi
+25A_11_01,h5n1cow_GRCh38,bLO-derived layer,bLO109,3,CAO,control,,,24 hpi
+25A_11_02,h5n1cow_GRCh38,bLO-derived layer,bLO109,3,CAO,A/Tx,0.1,MOI,24 hpi
+25A_11_03,h5n8_GRCh38,bLO-derived layer,bLO109,3,CAO,A/SH,0.1,MOI,24 hpi
+25A_11_04,h5n1_GRCh38,bLO-derived layer,bLO109,3,CAO,KAN-1,0.1,MOI,24 hpi
+25A_11_05,h3n2_GRCh38,bLO-derived layer,bLO109,3,CAO,PanIII,0.1,MOI,24 hpi
+25A_12_01,h5n1cow_GRCh38,bLO-derived layer,bLO110,3,CAO,control,,,24 hpi
+25A_12_02,h5n1cow_GRCh38,bLO-derived layer,bLO110,3,CAO,A/Tx,0.1,MOI,24 hpi
+25A_12_03,h5n8_GRCh38,bLO-derived layer,bLO110,3,CAO,A/SH,0.1,MOI,24 hpi
+25A_12_04,h5n1_GRCh38,bLO-derived layer,bLO110,3,CAO,KAN-1,0.1,MOI,24 hpi
+25A_12_05,h3n2_GRCh38,bLO-derived layer,bLO110,3,CAO,PanIII,0.1,MOI,24 hpi
+25A_04_01,h5n1cow_GRCh38,ALI,ALI01,2,PneumaCult™-ALI Medium,control,,,24 hpi
+25A_04_02,h5n1cow_GRCh38,ALI,ALI01,2,PneumaCult™-ALI Medium,A/Tx,0.1,MOI,24 hpi
+25A_04_03,h5n8_GRCh38,ALI,ALI01,2,PneumaCult™-ALI Medium,A/SH,0.1,MOI,24 hpi
+25A_04_04,h5n1_GRCh38,ALI,ALI01,2,PneumaCult™-ALI Medium,KAN-1,0.1,MOI,24 hpi
+25A_04_05,h3n2_GRCh38,ALI,ALI01,2,PneumaCult™-ALI Medium,PanIII,0.1,MOI,24 hpi
+25A_10_01,h5n1cow_GRCh38,ALI,ALI02,2,PneumaCult™-ALI Medium,control,,,24 hpi
+25A_10_02,h5n1cow_GRCh38,ALI,ALI02,2,PneumaCult™-ALI Medium,A/Tx,0.1,MOI,24 hpi
+25A_10_03,h5n8_GRCh38,ALI,ALI02,2,PneumaCult™-ALI Medium,A/SH,0.1,MOI,24 hpi
+25A_10_04,h5n1_GRCh38,ALI,ALI02,2,PneumaCult™-ALI Medium,KAN-1,0.1,MOI,24 hpi
+25A_10_05,h3n2_GRCh38,ALI,ALI02,2,PneumaCult™-ALI Medium,PanIII,0.1,MOI,24 hpi
+25A_13_01,h5n1cow_GRCh38,ALI,ALI03,2,PneumaCult™-ALI Medium,control,,,24 hpi
+25A_13_02,h5n1cow_GRCh38,ALI,ALI03,2,PneumaCult™-ALI Medium,A/Tx,0.1,MOI,24 hpi
+25A_13_03,h5n8_GRCh38,ALI,ALI03,2,PneumaCult™-ALI Medium,A/SH,0.1,MOI,24 hpi
+25A_13_04,h5n1_GRCh38,ALI,ALI03,2,PneumaCult™-ALI Medium,KAN-1,0.1,MOI,24 hpi
+25A_13_05,h3n2_GRCh38,ALI,ALI03,2,PneumaCult™-ALI Medium,PanIII,0.1,MOI,24 hpi
+

@@ -1,0 +1,26 @@
+# large files and logs
+genomes/*
+!genomes/README.md
+!genomes/md5checksums.txt
+
+raw/*
+
+alignment/*
+
+data/*
+
+scripts/slurmlogs/*
+
+# build artifacts
+**/.ipynb_checkpoints/
+
+# make sure
+*.gz
+*.tar
+*.fasta
+*.fna
+*.fa
+*.gtf
+
+# include custom viral gtfs
+!customannotation/*.gtf

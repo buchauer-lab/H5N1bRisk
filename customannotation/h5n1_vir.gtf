@@ -1,0 +1,16 @@
+kan_1.M	custom	gene	1	1027	.	+	.	gene_id "kan_1.M"; transcript_id "kan_1.M";
+kan_1.M	custom	exon	1	1027	.	+	.	gene_id "kan_1.M"; transcript_id "kan_1.M";
+kan_1.NP	custom	gene	1	1542	.	+	.	gene_id "kan_1.NP"; transcript_id "kan_1.NP";
+kan_1.NP	custom	exon	1	1542	.	+	.	gene_id "kan_1.NP"; transcript_id "kan_1.NP";
+kan_1.NS	custom	gene	1	875	.	+	.	gene_id "kan_1.NS"; transcript_id "kan_1.NS";
+kan_1.NS	custom	exon	1	875	.	+	.	gene_id "kan_1.NS"; transcript_id "kan_1.NS";
+kan_1.PA	custom	gene	1	2233	.	+	.	gene_id "kan_1.PA"; transcript_id "kan_1.PA";
+kan_1.PA	custom	exon	1	2233	.	+	.	gene_id "kan_1.PA"; transcript_id "kan_1.PA";
+kan_1.PB1	custom	gene	1	2341	.	+	.	gene_id "kan_1.PB1"; transcript_id "kan_1.PB1";
+kan_1.PB1	custom	exon	1	2341	.	+	.	gene_id "kan_1.PB1"; transcript_id "kan_1.PB1";
+kan_1.PB2	custom	gene	1	2333	.	+	.	gene_id "kan_1.PB2"; transcript_id "kan_1.PB2";
+kan_1.PB2	custom	exon	1	2333	.	+	.	gene_id "kan_1.PB2"; transcript_id "kan_1.PB2";
+kan_1.HA	custom	gene	1	1736	.	+	.	gene_id "kan_1.HA"; transcript_id "kan_1.HA";
+kan_1.HA	custom	exon	1	1736	.	+	.	gene_id "kan_1.HA"; transcript_id "kan_1.HA";
+kan_1.NA	custom	gene	1	1377	.	+	.	gene_id "kan_1.NA"; transcript_id "kan_1.NA";
+kan_1.NA	custom	exon	1	1377	.	+	.	gene_id "kan_1.NA"; transcript_id "kan_1.NA";
